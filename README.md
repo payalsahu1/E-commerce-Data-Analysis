@@ -4,7 +4,6 @@ This project focuses on analyzing e-commerce transaction data using SQL and Pyth
 
 ##  Objectives
 
-- Perform exploratory data analysis (EDA) on e-commerce datasets.
 - Use SQL to extract insights and filter business-critical data.
 - Automate and visualize results using Python (Pandas, Matplotlib).
 - Understand customer segments and purchase patterns.
